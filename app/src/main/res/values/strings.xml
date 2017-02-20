@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Attract</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="search_hint">Type and Search</string>
+    <string name="menu_search">Menu Search</string>
+</resources>
